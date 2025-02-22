@@ -1,0 +1,4 @@
+# index element mass       ideal-nn rmin rmax prob-add
+  0     Al      26.981539 3        1.5  2.5  0.50
+  1     O       15.999400 3        1.5  2.5  0.50
+  2     Ti      47.867    3        1.5  2.5  0.50
